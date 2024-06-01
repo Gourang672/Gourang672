@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gourang672
+- 👋 Hi, I’m @Gouranga Charan Mishra
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning New techs.
 - 📫 How to reach me https://www.linkedin.com/in/gc-mishra/
